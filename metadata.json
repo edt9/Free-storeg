@@ -1,0 +1,7 @@
+{
+  "name": "TeleCloud Gallery",
+  "description": "Professional Telegram-powered cloud photo management platform with secure SQLite metadata indexing, real-time Telegram photo storage, responsive gallery, albums, and full-screen preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
